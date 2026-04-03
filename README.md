@@ -29,6 +29,9 @@ Ticket lifecycle management
 Problem-solving
 Documentation
 Project Screenshots
+![Ticket Board](ticket-board.png)
+![Ticket Detail](ticket-detail.png)
+![Resolved Ticket](resolved-ticket.png)
 
 Screenshots included in this repository:
 
